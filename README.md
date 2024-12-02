@@ -1,4 +1,5 @@
-# Documentación de MarketWatcher
+# Documentación de MarketWatcher 
+#ENGLISH BELOW 
 
 El código implementa una aplicación de escritorio llamada **MarketWatcher**, que permite la comparación de datos bursátiles y la visualización de gráficos históricos para acciones seleccionadas. Está estructurado en dos clases principales: `StockDataAPI`, para la gestión de datos financieros desde la API de **Alpha Vantage**, y `StockComparisonApp`, para la configuración y control de la interfaz gráfica de usuario.
 
